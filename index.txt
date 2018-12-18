@@ -1,1 +1,1 @@
-³Â´ó·¢
+echo 'HelloWord!'
